@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Travel App Template</string>
+    <string name="headlineText">Konyaaltı beach, Antalya</string>
+    <string name="descriptionTitle">Konyaaltı beach</string>
+    <string name="descriptionText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet condimentum ipsum. Praesent viverra lorem a diam fringilla, vitae tempus odio ornare. Phasellus feugiat accumsan dui</string>
+    <string name="subtitleText">Description</string>
+    <string name="heightTitle">Height</string>
+    <string name="temperatureTitle">Temperature</string>
+    <string name="distanceTitle">Distance</string>
+    <string name="heightText">7 Km</string>
+    <string name="temperatureText">32°C</string>
+    <string name="distanceText">495 Km</string>
+    <string name="buttonText">Book Now</string>
 </resources>
