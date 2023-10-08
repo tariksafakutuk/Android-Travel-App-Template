@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Seyahat Uygulaması Şablonu</string>
+    <string name="headlineText">Konyaaltı sahili, Antalya</string>
+    <string name="descriptionTitle">Konyaaltı sahili</string>
+    <string name="descriptionText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet condimentum ipsum. Praesent viverra lorem a diam fringilla, vitae tempus odio ornare. Phasellus feugiat accumsan dui</string>
+    <string name="subtitleText">Açıklama</string>
+    <string name="heightTitle">Genişlik</string>
+    <string name="temperatureTitle">Derece</string>
+    <string name="distanceTitle">Mesafe</string>
+    <string name="heightText">7 Km</string>
+    <string name="temperatureText">32°C</string>
+    <string name="distanceText">495 Km</string>
+    <string name="buttonText">Şimdi Rezervasyon Yapın</string>
+</resources>
